@@ -1,2 +1,2 @@
 # Regional-Sales-Analysis
-This project focuses on applying data analytics techniques to the sales domain. The goal is to derive insights that can help improve sales performance and drive business strategies.
+This project delivers an end-to-end sales analytics solution using 5 years of U.S. regional sales data. It integrates MySQL for data storage & querying, Python for Exploratory Data Analysis (EDA), and Power BI for interactive dashboards to uncover trends, profitability drivers, and regional growth opportunities.
